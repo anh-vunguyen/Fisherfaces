@@ -1,6 +1,8 @@
 %% Auteur : NGUYEN Anh Vu
 %% Instructeur :  Oscar ACOSTA
 %% FACE RECOGNITION WITH THE METHOD OF FISHERFACES (PCA + LDA)
+%% Reference: P. Belhumeur, J. Hespanha, and D. Kriegman, “Eigenfaces vs. Fisherfaces: Recognition using class specific linear projection,”
+%% IEEE Trans. Pattern Anal. Mach.Intell., vol. 19, no. 7, pp. 711-720, 1997.
 
 close all
 clc
